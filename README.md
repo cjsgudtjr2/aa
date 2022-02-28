@@ -47,7 +47,7 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 ![blast3](https://user-images.githubusercontent.com/80435292/155930879-05dc116d-579c-418a-b278-d4c086bd30d1.png)
 
-
++ Check the similarity score and E-value for each alignments
 
 
 ![blast4](https://user-images.githubusercontent.com/80435292/155930880-4c9d5470-589e-4b45-89a6-07c470389950.png)
