@@ -12,10 +12,10 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
   
 + Protein blast(Blastp)
   + compares protein sequence database with amino acid sequence
-  + 
+  
 + Blastx
   + Convert the DNA input sequence into six frames and compare it with the protein sequence database.
-  + 
+  
 + Tblastn
   + Transform the DNA database into 6 frame and compare it with the protein sequence
 
