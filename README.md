@@ -60,4 +60,19 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
   + The bars of several colors below indicate how long they are similar to the query sequence.
 
 
+-------------------------------
+
+# PSSM
+
+![image](https://user-images.githubusercontent.com/80435292/156295511-a41bed37-cf89-450a-acf3-a4766d7d2ee3.png)
+
++ Can download PSSM file in asn file when run PSI-BLAST
+
+![image](https://user-images.githubusercontent.com/80435292/156295545-407f68d6-6f54-47db-8946-4ee20010f930.png)
+
++psiblast –in_pssm <path to your checkpoint.asn> -db <any db> -num_iterations 1 -out_ascii_pssm <output file name>
+![image](https://user-images.githubusercontent.com/80435292/156295556-eccbfcf8-9e62-452f-a3a2-bba8000b7e8b.png)
+
+
+![image](https://user-images.githubusercontent.com/80435292/156295562-7b46ce68-19c4-4d5a-9fa9-58cca486cd3d.png)
 
