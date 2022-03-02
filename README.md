@@ -8,7 +8,7 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
 ![blast type](https://user-images.githubusercontent.com/80435292/155930873-8042f9c6-e2ac-4014-8d68-c393e6c04942.png)
 
 + Nucleotide blast(Blstan)
-  +compares nucleotide sequence databases with DNA sequences 
+  + compares nucleotide sequence databases with DNA sequences 
   
 + Protein blast(Blastp)
   + compares protein sequence database with amino acid sequence
