@@ -64,7 +64,7 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 # PSSM
 
-<img width="1905" alt="aaaaaaa" src="https://user-images.githubusercontent.com/80435292/156296053-f27de013-c83b-483c-83b7-0ad15e4e68b3.png">
+![image](https://user-images.githubusercontent.com/80435292/156296115-2a3feec2-7c6c-4bca-9c8a-29b563dbf4b7.png)
 
 
 + Can download PSSM file in asn file when run PSI-BLAST
