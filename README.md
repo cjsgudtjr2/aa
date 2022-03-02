@@ -1,7 +1,7 @@
 https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 
-
+------------------------
 
 # BLAST type
 
