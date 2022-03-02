@@ -70,7 +70,7 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 ![image](https://user-images.githubusercontent.com/80435292/156295545-407f68d6-6f54-47db-8946-4ee20010f930.png)
 
-+psiblast –in_pssm <path to your checkpoint.asn> -db <any db> -num_iterations 1 -out_ascii_pssm <output file name>
++psiblast –in_pssm <path to your checkpoint.asn> -db <any db> -num_iterations 1 -out_ascii_pssm <output file name>
 ![image](https://user-images.githubusercontent.com/80435292/156295556-eccbfcf8-9e62-452f-a3a2-bba8000b7e8b.png)
 
 
